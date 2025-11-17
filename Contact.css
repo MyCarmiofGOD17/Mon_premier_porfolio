@@ -1,0 +1,20 @@
+50px;
+    height: 345px;
+}
+p{
+     margin: 10px;
+     padding:5px;
+     
+}
+a{
+    text-decoration: none;
+    color: blue;
+}
+h1{
+    color: blue;
+}
+
+fieldset{
+    border-color:blueviolet;
+    
+}
